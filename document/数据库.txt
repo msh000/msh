@@ -1,0 +1,7 @@
+地址：68.168.131.63
+用户名：WXminipro_2018
+密码：WXminipro_2018
+端口：3306
+
+开发统一用zhaozhongren_test库
+投产用zhaozhongren库
